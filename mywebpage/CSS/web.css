@@ -1,5 +1,6 @@
 body{
     background-image: url(norway.jpg);
+    background-color: black;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
