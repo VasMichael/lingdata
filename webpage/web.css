@@ -1,0 +1,29 @@
+body{
+    background-image: url(https://img.freepik.com/free-photo/look-from-above-at-river-running-through-the-fjords_1304-5412.jpg?w=740&t=st=1694378890~exp=1694379490~hmac=8aeb18b25ddf86bd2703d51ed331a108c5a3fbadb67fb8035a29a684804954c7);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    color: white;
+    font-family: "Lobster", "consolas", "sans-serif";
+}
+h2{
+    color: aqua;
+    font-style: italic;
+}
+
+p{
+    border-color: black;
+    border: 1px solid;
+    width: 300px;
+    background-color: chartreuse;
+}
+a{
+    border-color: black;
+    border: 1px solid;
+    width: 500px;
+    background-color:red;
+    color: black;
+}
